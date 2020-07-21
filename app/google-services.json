@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "110624490847",
+    "firebase_url": "https://cybergrad-39d32.firebaseio.com",
+    "project_id": "cybergrad-39d32",
+    "storage_bucket": "cybergrad-39d32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110624490847:android:fbf0823ab78c30e0d622ea",
+        "android_client_info": {
+          "package_name": "com.example.infs3605project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110624490847-pr63258ak128uir0d5s2s9ggrli4u156.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.infs3605project",
+            "certificate_hash": "e462b95448d21ad3ab710cd3cc3b39143642b55b"
+          }
+        },
+        {
+          "client_id": "110624490847-0mo89t858ouvlu20bdtgh90iqihncqtm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXSh8eoeptmvOp0jjYoyyzO1tXfJ_CSAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110624490847-0mo89t858ouvlu20bdtgh90iqihncqtm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
